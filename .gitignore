@@ -1,0 +1,19 @@
+# Node modules
+node_modules/
+client/node_modules/
+server/node_modules/
+
+# Environment variables
+.env
+client/.env
+server/.env
+
+# Logs
+*.log
+
+# Vite/React
+dist/
+client/dist/
+
+# System files
+.DS_Store
